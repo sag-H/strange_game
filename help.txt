@@ -9,3 +9,4 @@ loop:
 functions[0 + i] # Func1
 functions[1 - i] # Func2
 i = 1
+test
